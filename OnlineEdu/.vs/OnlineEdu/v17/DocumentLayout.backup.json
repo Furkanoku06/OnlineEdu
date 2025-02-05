@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\source\\repos\\OnlineEdu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A97124BA-AE9D-465D-A96C-28C1F59073BF}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\furka\\source\\repos\\onlineedu\\onlineedu.webui\\areas\\admin\\controllers\\coursecategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97124BA-AE9D-465D-A96C-28C1F59073BF}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\controllers\\coursecategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97124BA-AE9D-465D-A96C-28C1F59073BF}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\furka\\source\\repos\\onlineedu\\onlineedu.webui\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97124BA-AE9D-465D-A96C-28C1F59073BF}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97124BA-AE9D-465D-A96C-28C1F59073BF}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\furka\\source\\repos\\onlineedu\\onlineedu.webui\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97124BA-AE9D-465D-A96C-28C1F59073BF}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161CC0F1-85B0-43AF-9041-D917986EFA52}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\furka\\source\\repos\\onlineedu\\onlineedu.api\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161CC0F1-85B0-43AF-9041-D917986EFA52}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\CourseCategoryController.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\CourseCategoryController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\CourseCategoryController.cs",
+              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\CourseCategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:17:03.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:33:16.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\OnlineEdu\\OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "OnlineEdu.WebUI\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:37:58.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutsController.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\source\\repos\\OnlineEdu\\OnlineEdu.API\\Controllers\\AboutsController.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.API\\Controllers\\AboutsController.cs",
+              "ToolTip": "C:\\Users\\furka\\source\\repos\\OnlineEdu\\OnlineEdu.API\\Controllers\\AboutsController.cs",
+              "RelativeToolTip": "OnlineEdu.API\\Controllers\\AboutsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:34:49.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
